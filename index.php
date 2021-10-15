@@ -13,9 +13,9 @@
     <h1>CompraVenta</h1>
      <!--Menu-->
      <ul>
-        <li> <a href="index.php">INICIO </a></li>
+        <li> <a href="index.html">INICIO </a></li>
         <li> <a href="contenidos.php">CONTENIDOS</a></li>
-        <li> <a href="contacto.html">CRUD</a></li>
+        <li> <a href="contacto.php">CRUD</a></li>
     </ul>
     <hr />
 
